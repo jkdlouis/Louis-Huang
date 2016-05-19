@@ -1,0 +1,164 @@
+/* Normalize Styles */
+/*@import 'node_modules/normalize.css/normalize';
+
+/* Import Modules  */
+/*@import '../_modules/link/link';
+
+/* Box sizing partial styles:
+   Apply a natural box layout model to all elements */
+
+
+
+/* global style */
+
+
+body {
+  position: relative;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: Verdana, sans-serif;
+  color: black;
+
+
+}
+
+
+a:hover {
+  text-decoration: none;
+}
+
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.paddingRight {
+  padding-right: 10px;
+}
+
+/* nav style* */
+
+ul > li {
+  list-style: none;
+  display: inline;
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+#logo {
+  padding-bottom: 15px;
+  height: 80px;
+  width: 100px;
+}
+
+#dropdownMenu1 {
+  background-color: black;
+}
+
+.glyphicon.glyphicon-list {
+  color: #337ab7;
+}
+
+.dropdown-menu {
+  background-color: #337ab7;
+  color: black;
+}
+
+/* home */
+
+
+#home h2 {
+  padding-top: 200px;
+  padding-bottom: 30px;
+}
+
+
+#home {
+  background: url('images/background/Web-Development-Journey.jpg') no-repeat center;
+  height: 700px;
+  width: 100%;
+  background-size: 100% 100%;
+}
+
+
+#emailOne {
+margin-left: 80px;
+}
+
+.resumeMarginTop {
+  margin-top: 20px;
+}
+
+.emailMarginTop {
+  margin-top: 25px;
+}
+
+/* About Me */
+
+#about {
+  padding-top: 70px;
+}
+
+.paddingTop {
+  padding-top: 50px;
+}
+
+.marginTop {
+  margin-top: 30px;
+}
+
+.marginRight {
+  margin-right: 50px;
+}
+
+.doubleUnderline {
+  text-decoration:underline;
+  border-bottom: 1px solid #000;
+}
+
+/* progress */
+
+#progress {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+/* work */
+
+#work {
+  padding-top:40px;
+}
+
+.backgroundColor {
+  background-color: #565b5f;
+
+
+}
+
+.paddingBottom {
+  padding-bottom: 50px;
+}
+
+.img-work {
+
+  height: 200px;
+}
+
+
+  /* footer */
+
+
+.marginBottom {
+  margin-bottom: 50px;
+
+}
+
+.marginLeft {
+  margin-left: 10px;
+}
+
+
